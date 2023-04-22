@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Za-Bots-App/static/css/main.e4eef3cc.css",
+    "main.js": "/Za-Bots-App/static/js/main.a0f11d3a.js",
+    "static/js/787.9dee85b2.chunk.js": "/Za-Bots-App/static/js/787.9dee85b2.chunk.js",
+    "static/media/SEGA.woff": "/Za-Bots-App/static/media/SEGA.47b4bfa94ef243af4a5b.woff",
+    "index.html": "/Za-Bots-App/index.html",
+    "main.e4eef3cc.css.map": "/Za-Bots-App/static/css/main.e4eef3cc.css.map",
+    "main.a0f11d3a.js.map": "/Za-Bots-App/static/js/main.a0f11d3a.js.map",
+    "787.9dee85b2.chunk.js.map": "/Za-Bots-App/static/js/787.9dee85b2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e4eef3cc.css",
+    "static/js/main.a0f11d3a.js"
+  ]
+}
